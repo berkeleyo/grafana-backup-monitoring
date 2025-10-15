@@ -1,9 +1,14 @@
+# grafana-backup-monitoring
 
-# Backup Health (Grafana)
+Grafana dashboards and scripts for backup job health (Datto-inspired).
 
-- Dashboard JSON for failures and durations
-- Python log parser that emits JSON for metrics ingestion
+## Getting started
+- Clone and explore.
+- Use the CI workflows as examples.
 
-```bash
-python scripts/log-parse.py < backup.log > parsed.json
-```
+
+---
+
+# Grafana Backup & Monitoring
+
+Simple backup script and monitoring ideas.
