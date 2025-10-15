@@ -1,0 +1,10 @@
+{
+  "description": "Grafana dashboards and scripts for backup job health (Datto-inspired).",
+  "topics": [
+    "grafana",
+    "monitoring",
+    "backups",
+    "datto"
+  ],
+  "created": "2025-10-15"
+}
